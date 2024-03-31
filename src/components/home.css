@@ -1,0 +1,90 @@
+.paragraph{
+    color: #663BBD;
+}
+.photo {
+    transform: rotate(4deg);
+    border-radius:3rem;
+}
+
+.photo:hover {
+    border: 3px solid #663BBD;
+    /* border-radius:3rem; */
+    margin: -2px; 
+    transform: rotate(0);
+    transition: all 0.5s; 
+    
+    
+}
+
+.photo:hover::after {
+    transition: all 0.5s; 
+}
+
+.photo{
+    /* margin-left: 5rem; */
+}
+.home{
+    font-size: 20px;
+    margin: start;
+}
+.download{
+    width: 10rem;
+    height: 3rem;
+    background-color: transparent;
+    border-radius: 2rem;
+    border-color: #8750F7;
+    color: #8750F7;
+
+}
+.twitter{
+    border-radius: 100%;
+    height: 2rem;
+    width: 2rem;
+    color: #8750F7;
+    border-color: #8750F7;
+    background-color: transparent;
+}
+.basket{
+    border-radius: 100%;
+    height: 2rem;
+    width: 2rem;
+    color: #8750F7;
+    border-color: #8750F7;
+    background-color: transparent;
+}
+.git{
+    border-radius: 100%;
+    height: 2rem;
+    width: 2rem;
+    color: #8750F7;
+    border-color: #8750F7;
+    background-color: transparent;
+}
+.in{
+    border-radius: 100%;
+    height: 2rem;
+    width: 2rem;
+    
+    border-color: #8750F7;
+    background-color: transparent;
+    color: #8750F7;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 3rem;
+    
+}
+
+.h1{
+    font-weight: bold;
+    /* font-size: 3.5rem; */
+    width: 10rem;
+
+}
+.span{
+    font-weight: 400;
+    font-size: 1.5rem;
+
+}

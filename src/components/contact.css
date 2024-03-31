@@ -1,0 +1,127 @@
+.Contact{
+    background-color: #F6F3FC;
+    margin-top: 2rem;
+    height: 100vh;
+    display:flex;
+align-content: space-between;
+    gap: 2rem;
+    /* width:100%; */
+    /* margin-left: 4rem; */
+    
+    
+}
+.contact1{
+    background-color: white;
+    height: 28rem;
+    width: 30rem;
+    margin-top: 4rem;
+    border-radius: 2rem;
+    margin-left: 8rem;
+    
+    
+    
+  
+    
+}
+.boxs3{
+    display: flex;
+    flex-direction: column;
+    border-radius: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    gap: 2rem;
+    padding-top: 2rem;
+
+}
+.send{
+    height: 2rem;
+    width: 5rem;
+    font-size: 10px;
+    background-color: #522E9A;
+    border-radius: 1rem;
+    color: white;
+
+}
+.subject{
+    background-color: #F6F3FC;
+}
+.select{
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    background-color: #F6F3FC;
+}
+.boxs1{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+ 
+
+}
+.boxs2{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.type1{
+    height: 1.5rem;
+    border-radius: 0.5rem;
+  border: 1px solid black;
+    background-color: #F6F3FC;
+    width: 13rem;
+}
+.type2{
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    background-color: #F6F3FC;
+    border: 1px solid black;
+    width: 12rem;
+}
+.type3{
+    display: flex;
+    gap: 10px;
+    text-align: start;
+}
+.type4{
+    display: flex;
+    gap:10px;
+    text-align: start;
+}
+.type5{
+    display: flex;
+    gap: 10px;
+    text-align: start;
+}
+.hs{
+    font-size: 15px;
+    gap: 10px;
+}
+.contact2{
+display: flex;
+flex-direction: column;
+gap: 2rem;
+margin-left: 4rem;
+margin-top: 8rem;
+}
+.icon1{
+    border-radius: 100%;
+    height: 2rem;
+
+    width: 2rem;
+    /* color: #522E9A; */
+    background-color: #522E9A;
+    color: white;
+}
+.writing1{
+    color: #522E9A;
+    text-align: start;
+    padding-left: 2rem;
+}
+.writing2{
+    text-align: start;
+    padding-left: 2rem;
+}
+
+

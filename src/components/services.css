@@ -1,0 +1,146 @@
+.Services{
+    background-color:#F6F3FC;
+    /* height: fit-content; */
+    
+    
+/*  */
+    
+}
+.my{
+    color: #7B48E2;
+    padding-top: 6rem;
+    font-size: 3rem;
+}
+.p{
+font-size: 20px;
+
+}
+.div1{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    height: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   /* width: 2rem; */
+   color: #7B48E2;
+  
+
+}
+.num{
+    /* font-weight: 200; */
+    font-size: 1.5rem;
+    padding-left: 30px;
+    
+    
+}
+
+    .hr{
+        color: black;
+    }
+
+.brand{
+    /* margin-left: 2rem; */
+    /* font-weight:400; */
+    font-size: 2rem;
+    font-weight: bold;
+    
+
+    
+}
+.lines{
+    margin-left: 3rem;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.div1:hover{
+   background-color: #7B48E2;
+   margin-left: 4rem;
+   margin-right: 4rem;
+   color: white;
+    
+}
+.div2{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: rem;
+    height: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   /* width: 2rem; */
+   color: #7B48E2;
+  
+
+}
+.div2:hover{
+    background-color: #7B48E2;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    color: white;
+     
+ }
+ .div3{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: rem;
+    height: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   /* width: 2rem; */
+   color: #7B48E2;
+  
+
+}
+.div3:hover{
+    background-color: #7B48E2;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    color: white;
+     
+ }
+ .div4{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: rem;
+    height: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   /* width: 2rem; */
+   color: #7B48E2;
+  
+
+}
+.div4:hover{
+    background-color: #7B48E2;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    color: white;
+     
+ }
+
+ .div{
+    padding-bottom: 5rem;
+ }
+ 
+
+
+
