@@ -3,7 +3,7 @@ import "./page.css"
 import { skills } from './Page'
 export const Page5 = () => {
   return (
-    <div className='Page5'>
+    <div className='Page5' id='skill'>
         <h1 className='ski'>MY SKILLS</h1>
         <p className='par1'>We put your ideas and thus your wishes in the form of a unique web project that <br/>inspires you and you customers.</p>
         <div className='skill'>

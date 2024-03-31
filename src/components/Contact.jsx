@@ -6,7 +6,7 @@ import { FaLocationDot } from "react-icons/fa6";
 export const Contact = () => {
   
   return (
-    <div className='Contact'>
+    <div className='Contact' id='contact'>
       <div className='contact1'>
         <h1 className='writing1'>Let’s work together!</h1>
       <p className='writing2'>I design and code simple things and i love what i do.Just<br/> simple like that!</p>

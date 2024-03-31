@@ -7,17 +7,17 @@
 
 
 .navContainer{
+    position: fixed;
+    z-index: 1000;
+    top: 0%;
+    left: 0%;
     background-color: #FFFFFF;
     height: 80px;
-    width: 86%;
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     text-align: center;
-    padding-left: 30px;
-    margin-left: 50px;
-    margin-top: 30px;
-    padding-right: 40px;
     font-size: 0.8125rem;
     letter-spacing:0.08875rem ;
     font-weight: bold;
@@ -33,6 +33,7 @@
         align-items: center;
         gap: 20px;
         font-weight: 600;
+        text-decoration: none;
  }
        
       

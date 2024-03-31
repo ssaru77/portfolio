@@ -3,7 +3,7 @@ import '../components/services.css'
 // import { MdArrowOutward } from "react-icons/md";
 export const Services = () => {
   return (
-    <div className='Services'>
+    <div className='Services' id='service'>
         <h1 className='my '>My Quality Services</h1>
        <p className='p'>We put your ideas and thus your wishes in the form of a unique web project that <br/> inspires you and you customers.</p>
  <div className='div'>

@@ -2,7 +2,7 @@ import React from 'react'
 import './page.css'
 export const Page6 = () => {
   return (
-    <div className='page6'>
+    <div className='page6' id='testimonal'>
         <div className='testimonial'>
             <h1 className='head'>My Client's Stories</h1>
             <p>Empowering people in new a digital journey with my super<br/> services</p>

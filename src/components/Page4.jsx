@@ -5,7 +5,7 @@ import { PiMedalLight } from "react-icons/pi";
 import { resume } from './Page';
 export const Page4 = () => {
   return (
-    <div className='Page4'>
+    <div className='Page4' id='resume'>
 <div className='experience'>
     <h1> <PiMedalLight /> MY EXPERIENCE</h1>
     <div>

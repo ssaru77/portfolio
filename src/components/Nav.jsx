@@ -25,13 +25,12 @@ className="navbarCss"
   
    
 
-    <span>Services</span>
-    <span>Works</span>
-    <span>Resume</span>
-    <span>Services</span>
-    <span>Skills</span>
-    <span>Testimonials</span>
-    <span>Contact</span>
+    <a style={{textDecoration:'none'}} href='#service'>Services</a>
+    <a style={{textDecoration:'none'}} href='#work'>Works</a>
+    <a style={{textDecoration:'none'}} href='#resume'>Resume</a>
+    <a style={{textDecoration:'none'}} href='#skill'>Skills</a>
+    <a style={{textDecoration:'none'}} href='#testimonal'>Testimonials</a>
+    <a style={{textDecoration:'none'}}href='#contact'>Contact</a>
 
 <button className='button'>Hire Me!</button>
   
