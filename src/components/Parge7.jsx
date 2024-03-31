@@ -8,7 +8,7 @@ export const Parge7 = () => {
     <div className='Parge7'>
         
         <h1 className='ski'>Recent Blogs</h1>
-        <p className='par1'>We put your ideas and thus your wishes in the form of a unique web project that <br/>inspires you and you customers.</p>
+        <p className='pars1'>We put your ideas and thus your wishes in the form of a unique web project that <br/>inspires you and you customers.</p>
         <div className='blogs'>
   {blogs.map((content, index) => (
     <div key={index} className='blog'>
@@ -20,6 +20,7 @@ export const Parge7 = () => {
       <p className='pp'><FaRegComment />{content?.h2}</p>
       </div>
      <h1 className='text'>{content?.h1}</h1>
+
      </div>
     
 

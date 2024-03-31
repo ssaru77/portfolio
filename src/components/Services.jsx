@@ -5,7 +5,7 @@ export const Services = () => {
   return (
     <div className='Services' id='service'>
         <h1 className='my '>My Quality Services</h1>
-       <p className='p'>We put your ideas and thus your wishes in the form of a unique web project that <br/> inspires you and you customers.</p>
+       <p className='pars1'>We put your ideas and thus your wishes in the form of a unique web project that <br/> inspires you and you customers.</p>
  <div className='div'>
   <div className='div1'>
   <h1 className='num '>01 </h1>

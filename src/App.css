@@ -38,3 +38,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App{
+  font-weight: 200;
+  font-style: normal;
+  font-family: "Poppins", sans-serif;
+}

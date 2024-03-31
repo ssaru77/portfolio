@@ -72,14 +72,14 @@ margin-top: 5rem;
     color: white;
 }
 .date{
-    font-size: 20px;
+    font-size: 15px;
     color: #7B48E2;
 }
 .des{
-    font-size: 20px;
+    font-size: 15px;
 }
 .adress{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
 }
 .ski{
@@ -178,15 +178,19 @@ flex-direction: column;
     padding-top: 1.5rem;
     padding-left: 1rem;
 }
+.pars1{
+    font-size: 14px;
+    font-weight: 300;
+}
 .par1{
-    font-size: 15px;
+    font-size: 12px;
     /* width: 12rem; */
 }
 .head1{
-    font-size: 20px;
+    font-size: 13px;
 }
 .par2{
-    font-size: 15px;
+    /* font-size: 15px; */
 }
 .head1{
     padding-top:10px;
@@ -235,36 +239,41 @@ flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: white;
-    height: 2rem;
-    width: 16rem;
-   
+    height: 5rem;
+    width: 17rem;
     position: absolute;
     flex-direction: column;
-padding-bottom: 1rem;
-    padding-top: 2rem;
-left: 5%;
+/* padding-bottom: 1rem; */
+    /* padding-top: 2rem; */
+left: 3%;
     bottom: 3%;
     /* z-index: 1000; */
    
     border-radius: 1rem;
+    
 }
 .text{
     color: black;
-    font-size: 20px;
-    padding-bottom: 1rem;
+    font-size: 15px;    
+    /* padding-bottom: 1rem; */
+}
+
+.hh7{
+    display: flex;
+    flex-direction: column;
+
 }
 .hh7:hover{
     background-color: #4a2a8a;
 }
 
 .pp{
-    padding-top: 1rem;
     color: #7B48E2;
     font-size: 12px;
 }
 .pp1{
     display: flex;
-    gap: 20px;
+    gap: 10px;
     /* padding-top: 20px; */
 }
 
